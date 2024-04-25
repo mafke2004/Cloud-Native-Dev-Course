@@ -24,7 +24,7 @@ public class Main {
             cars.add(car);
         }
 
-        //EX  2
+        //EX 2
         int countCars =0;
         for (CarData car : cars) {
             countCars++;
