@@ -1,3 +1,5 @@
+package src.main.java;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -24,7 +26,7 @@ public class Main {
             cars.add(car);
         }
 
-        //EX 2
+        //EX2
         int countCars =0;
         for (CarData car : cars) {
             countCars++;

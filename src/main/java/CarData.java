@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class CarData {
     String Licence;
     int HourIn;
